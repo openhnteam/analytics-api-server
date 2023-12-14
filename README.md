@@ -1,4 +1,4 @@
-# analytics-ai-server
+# analytics-api-server
 
 基于 Nest + TypeScript 进行开发
 
